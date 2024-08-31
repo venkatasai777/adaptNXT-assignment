@@ -1,4 +1,4 @@
 # completed The assignment as given by using Vite + React
 
-deploy link :
+deploy link : adaptnxt-assignments.netlify.app/
 
