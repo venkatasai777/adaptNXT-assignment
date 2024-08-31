@@ -55,6 +55,7 @@ body {
   width: 200px;
   border-radius: 4px;
   color: blueviolet;
+  cursor: pointer;
 }
 .options li button {
   outline: none;
@@ -68,9 +69,11 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  cursor: pointer;
 }
 .options li button :hover {
   transform: scale(1.2);
+  cursor: pointer;
 }
 .rightContentSection {
   width: 100%;
